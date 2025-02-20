@@ -1,0 +1,10 @@
+YEAR,Start_Year,Home_Value,Source
+2017,0,562098,zillow
+2018,1,568090,zillow
+2019,2,605240,zillow
+2020,3,618060,redfin
+2021,4,630780,redfin
+2022,5,670980,redfin
+2023,6,690800,zillow
+2024,7,700800,zillow
+2025,8,750400,redfin
